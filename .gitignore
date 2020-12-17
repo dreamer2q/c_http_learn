@@ -1,0 +1,11 @@
+# ignore buid output
+build/ 
+
+# ignore vscode config
+.vscode/
+
+# cmake
+
+CMakeCache
+CMakeFiles/
+
